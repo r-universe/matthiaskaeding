@@ -1,0 +1,6 @@
+[
+  {
+    "package": "RcppGreedySetCover",
+    "oncran": true
+  }
+]
