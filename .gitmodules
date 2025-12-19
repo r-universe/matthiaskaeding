@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "RcppGreedySetCover"]
 	path = RcppGreedySetCover
-	url = https://github.com/matthiaskaeding/setcover
+	url = https://github.com/cran/RcppGreedySetCover
